@@ -1,1 +1,1 @@
-# awswebserver
+This repository is all about creating a web server using AWS. The services used to achieve the task are EC2 for launching instance, EBS for creating additional volume to store the code from github, S3 to store the image , Cloud front which has the origin from the S3 bucket created.
